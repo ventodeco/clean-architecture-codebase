@@ -3,6 +3,6 @@ Clean architecture is a software design philosophy that separates the elements o
 
 So this repository is about how we are implementing clean architecture with Laravel
 
-This codebase i took from : https://github.com/melardev/ApiEcommerceLaravel
+This codebase i took from : https://github.com/melardev/ApiEcommerceLaravel and i refactor it use clean architecture.
 
 You can check Clean Architecture Implementation Impacts on Maintainability Aspect for Backend System Code Base in folder myreport.
